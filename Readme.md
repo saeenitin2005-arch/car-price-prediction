@@ -21,7 +21,7 @@ This project predicts the price of a car based on features like engine size, fue
 
 ## 📊 Result
 
-Achieved an accuracy of **XX%** on test data.
+Achieved an accuracy of ** 0.5954654304679821%** on test data.
 
 ## ▶️ How to Run
 
